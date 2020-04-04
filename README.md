@@ -1,3 +1,4 @@
+### :small_blue_diamond: Project Year: 2018 :small_blue_diamond:
 #### (Udacity Android Developer Nanodegree Project 5)
 # XYZ Reader: Android App for RSS Feeds
 ### Transformed the user experience of a news reading app using Material Design principles. This includes consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces.
